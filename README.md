@@ -4,5 +4,5 @@ Este es el archivo README de mi proyecto.
 
 Aquí está mi captura de pantalla 
 
-![Captura de la interfaz](images/"minigenerador, funcionando.png")
+![image alt](https://github.com/Binbounan/Minigenerador/blob/baf0853a850a9af2a135a13d905727c457ecd101/minigenerador%2C%20funcionando.png)
 
