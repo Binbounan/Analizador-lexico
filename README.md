@@ -1,1 +1,1 @@
-Analiizador lexico con todos los simbolos 
+Analizador lexico con todos los simbolos 
